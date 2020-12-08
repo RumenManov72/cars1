@@ -1,0 +1,32 @@
+[
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$216000$QHV5TiTzVPaI$rOGOERUtLqvr5MNCMQZDeJrQax8FyjkhqJkqlXsAzso=",
+        "last_login": "2020-11-30T19:30:13Z",
+        "is_superuser": true,
+        "username": "djangoadmin",
+        "first_name": "Daniela",
+        "last_name": "Todorova",
+        "email": "danitodorova2106@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2020-11-22T16:48:09Z",
+        "groups": [],
+        "user_permissions": [
+            [
+                "add_emailaddress",
+                "account",
+                "emailaddress"
+            ]
+        ]
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$216000$VObeP9GDZ5Jc$Nm8TRjMLzwdaF/MkCaxCwJAIm0saqlyZ0grrFRXe+fY=",
+        "last_login": "2020-11-28T20:57:08.300Z",
+        "is_superuser": false,
+        "username": "doncho",
+        "first_name": 
